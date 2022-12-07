@@ -1,6 +1,6 @@
 using Application;
 using Core.CrossCuttingConcerns.Exceptions;
-using Pesistence;
+using Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
